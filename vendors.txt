@@ -1,0 +1,9 @@
+vendor_id,name,address,phone
+0,Volt Inc,1234 5th street; Los Angeles; CA; 90210, 213-884-6500
+2,Flush it,134 6th street; williamsburgh; PA; 06623, 604-252-4000
+5,Theoretical,34 3rd street; harrisburgh; PA; 06623, 604-252-9020
+3,supreme,1234 commonwealth ave ; Boston; MA; 06675, 607-332-5553
+7,supply general ,15 State street; Detroit; MI; 21123, 452-540-3999
+10,Bolt,4 12th street; williamsburgh; PA; 06623, 604-252-4000
+9,free flow,24 5th street; williamsburgh; PA; 06623, 604-252-4000
+15,cover me up,14 10th street; williamsburgh; MD; 06623, 604-252-4000

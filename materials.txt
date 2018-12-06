@@ -1,0 +1,9 @@
+vendor_id,industry,international,hourly_rate,min_contract_value
+0,electrical,y,$140,$25000
+2,plumbing,y,$200,$20000
+5,concrete,y,$175,$200000
+3,finish,y,$375,$100000
+7,general supply,y,$150,$50000
+10,electrical,y,$180,$35000
+9,plumbing,n,$150,$15000
+15,drywall,n,$170,$10000
